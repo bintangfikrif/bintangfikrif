@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Bintang! 👋  
 
-<!--
-**bintangfikrif/bintangfikrif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student passionate about exploring various fields in IT, including web development and artificial intelligence. I enjoy learning new technologies and building projects that enhance my skills.  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Skills  
+- **Languages:** Python, C++  
+- **Web Development:** ReactJS (Beginner)  
+- **Interests:** AI, Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bintang-fikri-fauzan-2436751b0)  
+- 📸 [Instagram](https://www.instagram.com/bintangfikrif/)  
+- ✉️ Email: bntngfkr@gmail.com  
+
+## 📊 GitHub Stats  
+![Bintang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+## 🚀 Currently Learning  
+- Advanced Python and C++  
+- ReactJS for Web Development  
+- Basics of Artificial Intelligence  
+
+Feel free to explore my repositories and connect with me! 😊  
