@@ -15,6 +15,6 @@ I'm an IT student passionate about exploring various fields in IT, including web
 ## 🚀 Currently Learning  
 - Advanced Python and C++  
 - ReactJS for Web Development  
-- Basics of Artificial Intelligence  
+- Machine Learning  
 
 Feel free to explore my repositories and connect with me! 😊  
