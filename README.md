@@ -5,7 +5,7 @@ I'm an IT student passionate about exploring various fields in IT, including web
 ## 🛠️ Technologies & Skills  
 - **Languages:** Python, C++  
 - **Web Development:** ReactJS (Beginner)  
-- **Interests:** AI, Web Development  
+- **Interests:** Machine Learning, Web Development  
 
 ## 📫 Connect with Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bintang-fikri-fauzan-2436751b0)  
