@@ -21,4 +21,11 @@ https://bintang-personal-portofolio.vercel.app/
 - ReactJS for Web Development  
 - Computer Vision
 
+## 📊 GitHub Stats & Contributions  
+
+![Bintang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bintangfikri&show_icons=true&theme=tokyonight&hide_border=true) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfikri&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=bintangfikri&theme=tokyonight&hide_border=true)
+
+
 Feel free to explore my repositories and connect with me! 😊  
