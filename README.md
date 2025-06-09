@@ -4,7 +4,7 @@ I'm an IT student passionate about exploring various fields in IT, including web
 
 ## 🌐 My Personal Website
 If you'd like to learn more about me, feel free to check out my website below. <br>
-https://bit.ly/bf-portofolio  
+https://bintang-personal-portofolio.vercel.app/ 
 
 ## 🛠️ Technologies & Skills  
 - **Languages:** Python, C++  
