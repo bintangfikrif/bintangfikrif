@@ -25,7 +25,7 @@ https://bintang-personal-portofolio.vercel.app/
 ![GitHub Streak](https://streak-stats.demolab.com?user=bintangfikrif&theme=tokyonight&hide_border=true)<br>
 ![Bintang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bintangfikrif&show_icons=true&theme=tokyonight&hide_border=true)<br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfikrif&layout=compact&theme=tokyonight&hide_border=true)<br>
-![Visitor Count](https://komarev.com/ghpvc/?bintangfikrif&color=brightgreen&style=flat-square&label=PROFILE+HITS)
+![Visitor Count](https://profile-counter.glitch.me/{bintangfikrif}/count.svg)
 
 
 Feel free to explore my repositories and connect with me! 😊  
