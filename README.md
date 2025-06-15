@@ -1,4 +1,4 @@
-# Hi there, I'm Bintang! 👋  
+# Hi there, I'm Bintang Fikri Fauzan! 👋  
 
 I'm an IT student passionate about exploring various fields in IT, including web development and Artificial Intelligence. I enjoy learning new technologies and building projects that enhance my skills.
 
@@ -8,8 +8,9 @@ https://bintang-personal-portofolio.vercel.app/
 
 ## 🛠️ Technologies & Skills  
 - **Languages:** Python, C++  
-- **Web Development:** ReactJS (Beginner)  
-- **Interests:** Machine Learning, Web Development  
+- **Web Development:** ReactJS
+- **Design:** Figma
+- **Interests:** Machine Learning, Web Development, Computer Vision  
 
 ## 📫 Connect with Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bintang-fikri-fauzan-2436751b0)  
