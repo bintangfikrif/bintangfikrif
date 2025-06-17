@@ -18,9 +18,9 @@ https://bintang-personal-portofolio.vercel.app/
 - ✉️ bntngfkr@gmail.com   
 
 ## 🚀 Currently Learning  
-- Advanced Python for Machine Learning  
 - ReactJS for Web Development  
 - Computer Vision
+- Microsoft Power Platform (Power Apps, Power BI, Power Automate)
 
 ## 📊 GitHub Stats & Contributions  
 ![GitHub Streak](https://streak-stats.demolab.com?user=bintangfikrif&theme=tokyonight&hide_border=true)<br>
