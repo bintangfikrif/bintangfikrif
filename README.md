@@ -1,4 +1,7 @@
-# Hi there, I'm Bintang Fikri Fauzan! 👋  
+# Hi there, I'm Bintang Fikri Fauzan! 👋 
+<p align="center">
+  <img src="https://github.com/bintangfikrif/bintangfikrif/raw/main/assets/banner.gif" alt="Welcome Banner" width="80%">
+</p>
 
 I'm an IT student passionate about exploring various fields in IT, including web development and Artificial Intelligence. I enjoy learning new technologies and building projects that enhance my skills.
 
