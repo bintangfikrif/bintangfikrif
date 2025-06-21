@@ -1,5 +1,5 @@
 # Hello World, I'm Bintang Fikri Fauzan! 👋 
-<div align="center">![Tes](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Developer;Web+Development+Enthusiast;AI+%26+ML+Explorer;Always+Learning+Something+New!)</div>
+<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Developer;Web+Development+Enthusiast;AI+%26+ML+Explorer;Always+Learning+Something+New!)](https://git.io/typing-svg)</div>
 
 ## 🚀 About Me
 
@@ -12,15 +12,15 @@ https://bintang-personal-portofolio.vercel.app/
 ## 🛠️ Tech Arsenal
 <div align="center">
   💻 Programming Languages
-  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)<br>
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)<br>
   🌐 Web Development
-  ![]((https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+  [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)<br>
   🎨 Design Tools
-  ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 </div>
 
 ## 📚 Currently Learning  
@@ -28,10 +28,12 @@ https://bintang-personal-portofolio.vercel.app/
 - Computer Vision
 - Microsoft Power Platform (Power Apps, Power BI, Power Automate)
 
-## 📊 GitHub Stats & Contributions  
-![Bintang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bintangfikrif&show_icons=true&theme=tokyonight&hide_border=true)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfikrif&layout=compact&theme=tokyonight&hide_border=true)<br>
-![Visitor Count](https://komarev.com/ghpvc/?username=bintangfikrif&style=plastic)
+## 📊 GitHub Stats & Contributions
+<div align="center">
+  ![Bintang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bintangfikrif&show_icons=true&theme=tokyonight&hide_border=true)<br>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bintangfikrif&layout=compact&theme=tokyonight&hide_border=true)<br>
+  ![Visitor Count](https://komarev.com/ghpvc/?username=bintangfikrif&style=plastic)
+</div>
 
 ## 🤝 Let's Connect & Collaborate!
 <div align="center">
