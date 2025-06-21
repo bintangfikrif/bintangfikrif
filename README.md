@@ -1,5 +1,5 @@
 # Hello World, I'm Bintang Fikri Fauzan! 👋 
-<div align="center">![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Developer;Web+Development+Enthusiast;AI+%26+ML+Explorer;Always+Learning+Something+New!)</div>
+<div align="center">https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Developer;Web+Development+Enthusiast;AI+%26+ML+Explorer;Always+Learning+Something+New!</div>
 
 ## 🚀 About Me
 
@@ -39,7 +39,6 @@ I'm always excited to connect with fellow developers, share ideas, and collabora
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bintang-fikri-fauzan-2436751b0)  
 - 📸 [Instagram](https://www.instagram.com/bintangfikrif/)  
 - ✉️ bntngfkr@gmail.com   
-<img src="https://komarev.com/ghpvc/?username=bintangfikrif&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out! 🌟**
 </div>
 
