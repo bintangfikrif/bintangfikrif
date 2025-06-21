@@ -1,5 +1,5 @@
 # Hello World, I'm Bintang Fikri Fauzan! 👋 
-<div align="center">https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Developer;Web+Development+Enthusiast;AI+%26+ML+Explorer;Always+Learning+Something+New!</div>
+<div align="center">![Tes](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Developer;Web+Development+Enthusiast;AI+%26+ML+Explorer;Always+Learning+Something+New!)</div>
 
 ## 🚀 About Me
 
