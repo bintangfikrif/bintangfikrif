@@ -1,10 +1,9 @@
 <h1 align="center">Hello World, I'm Bintang Fikri Fauzan! 👋</h1>
 
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+IT+Student;Machine+Learning+Enthusiast;Junior+Web+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+%26+Dedicated+IT+Student;ML+%7C+Data+Analytics+Enthusiast;Junior+Web+Developer" alt="Typing SVG" />
   </a>
-</p>
+
 
 ## 🚀 About Me
 
@@ -22,15 +21,12 @@ If you'd like to learn more about me, feel free to check out my website below.
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
 
-<br><br>
 
 **🌐 Web Development**<br>
 <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
 <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS" />
-
-<br><br>
 
 **🎨 Design Tools**<br>
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" />
