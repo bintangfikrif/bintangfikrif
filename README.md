@@ -1,5 +1,5 @@
 # Hello World, I'm Bintang Fikri Fauzan! 👋 
-<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=IT+Student+%7C+Developer;Web+Development+Enthusiast;AI+%26+ML+Explorer;Always+Learning+Something+New!)](https://git.io/typing-svg)</div>
+<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+IT+Student;Machine+Learning+Enthusiast;Junior+Web+Dev)](https://git.io/typing-svg)</div>
 
 ## 🚀 About Me
 
@@ -12,15 +12,15 @@ https://bintang-personal-portofolio.vercel.app/
 ## 🛠️ Tech Arsenal
 <div align="center">
   💻 Programming Languages
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)<br>
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+  [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   🌐 Web Development
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-  [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)<br>
+  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
   🎨 Design Tools
-  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 </div>
 
 ## 📚 Currently Learning  
