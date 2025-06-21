@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Bintang Fikri Fauzan! 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+%26+Dedicated+IT+Student;ML+%7C+Data+Analytics+Enthusiast;Junior+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+%26+Dedicated+IT+Student;ML+%7C+Data+Analytics+Enthusiast;UI%2FUX+Enthusiast" alt="Typing SVG" />
   </a>
 
 
@@ -34,9 +34,8 @@ If you'd like to learn more about me, feel free to check out my website below.
 </div>
 
 ## 📚 Currently Learning  
-- ReactJS for Web Development  
-- Computer Vision  
-- Microsoft Power Platform (Power Apps, Power BI, Power Automate)
+- 👁️ Computer Vision - Exploring visual AI capabilities
+- 🏢 Microsoft Power Platform - Power Apps, Power BI, Power Automate
 
 ## 📊 GitHub Stats & Contributions
 
