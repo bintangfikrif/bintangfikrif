@@ -13,11 +13,13 @@ https://bintang-personal-portofolio.vercel.app/
   💻 Programming Languages
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+  <br>
   🌐 Web Development
   [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
   [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
   [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+  <br>
   🎨 Design Tools
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
