@@ -1,5 +1,5 @@
 # Hello World, I'm Bintang Fikri Fauzan! 👋 
-<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+IT+Student;Machine+Learning+Enthusiast;Junior+Web+Dev)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+IT+Student;Machine+Learning+Enthusiast;Junior+Web+Dev)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -10,7 +10,6 @@ If you'd like to learn more about me, feel free to check out my website below. <
 https://bintang-personal-portofolio.vercel.app/ 
 
 ## 🛠️ Tech Arsenal
-<div align="center">
   💻 Programming Languages
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -21,7 +20,6 @@ https://bintang-personal-portofolio.vercel.app/
   [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
   🎨 Design Tools
   [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
-</div>
 
 ## 📚 Currently Learning  
 - ReactJS for Web Development  
