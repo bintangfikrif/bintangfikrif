@@ -9,7 +9,7 @@ Informatics Engineering Student at Sumatera Institute of Technology, mainly focu
 
 ## 🌐 Explore My Digital Space
 If you'd like to learn more about me, feel free to check out my website below.  
-👉 https://bintang-personal-portofolio.vercel.app/
+👉 [tanggs.vercel.app](https://tanggs.vercel.app/)
 
 ## 🛠️ Programming Languages and Tools
 
